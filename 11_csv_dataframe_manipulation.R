@@ -1,6 +1,8 @@
 
 
-x <- c(3,6,8)
+titanic_df<-read.csv("/home/dharshekthvel/ac/code/scalatrainingintellij/data/titanic3.csv")
+
+
 # View the csv in a good format
 #View(titanic_df)
 
